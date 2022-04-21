@@ -13,9 +13,17 @@ The <i>Index</i> includes different colored sections to highlight each branch of
 ![](https://github.com/stefanogrillo/Personal-Homepage/blob/main/homepage%20index.gif)<br><br>
 
 
-The <i>Bio section</i> hihlights basic information about me and my achievements. The images should inspire my cultural background.
+The <i>Bio section</i> hihlights basic information about me and my achievements, divided by sections by <i>Color</i>: personal data and personal achievements. The images should inspire my cultural background.
 
 ![](https://github.com/stefanogrillo/Personal-Homepage/blob/main/Bio.gif)<br><br>
 
 
-The <i>Curriculum section</i> highlights the 
+The <i>Curriculum section</i> deep dives into the experiences and achievements i had so far. I used Tables and Colors to define different sections, making the overall structure well divided. 
+
+![](https://github.com/stefanogrillo/Personal-Homepage/blob/main/Curriculum.gif)<br><br>
+
+The <i>Project section</i> is simple, to highlights my current projects done.
+
+![]()
+
+The <i>
