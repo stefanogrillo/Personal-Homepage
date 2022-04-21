@@ -24,7 +24,7 @@ The <i>Curriculum section</i> deep dives into the experiences and achievements i
 
 The <i>Project section</i> is made to highlight my current projects done. Each Project has a Shadowed Box to make it clearly visible.
 
-![](https://github.com/stefanogrillo/Personal-Homepage/blob/main/Contacts.png)<br><br>
+![](https://github.com/stefanogrillo/Personal-Homepage/blob/main/Projects.png)<br><br>
 
 The <i>Contacts section</i> uses <i>Logos</i> from <i>Bootstrap</i> to beautify the view.
 ![](https://github.com/stefanogrillo/Personal-Homepage/blob/main/Contacts.png)
