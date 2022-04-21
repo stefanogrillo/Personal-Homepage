@@ -8,11 +8,14 @@ There are <i>5 total branches</i> (included the index-homepage) and some <i>hype
 The <i>CSS</i> file is created on purpose and uses also <i>Bootstrap</i> features for the personal account logos.
 
 
-The <i>Index</i> includes different colored sections to highlight each branch of the homepage. <i>Home</i>, <i>Bio</i>, <i>Curriculum</i>, <i>Projects</i> and <i>Contacts</i> are cool in the <i>Navbar</i>, but needed the spotlight. So, <i>Bio</i> has a dedicated <i>section</i> (<i>white background</i>), along with <i>Contacts</i>. The <i>second section</i> (<i>yellow background</i>) has an hyperlink to the <i>Curriculum page</i>. The last section highlights the Projects done at the moment when I finished this project.<br>
+The <i>Index</i> includes different colored sections to highlight each branch of the homepage. <i>Home</i>, <i>Bio</i>, <i>Curriculum</i>, <i>Projects</i> and <i>Contacts</i> are cool in the <i>Navbar</i>, but needed the spotlight. So, <i>Bio</i> has a dedicated <i>section</i> (<i>white background</i>), along with <i>Contacts</i>. The <i>second section</i> (<i>yellow background</i>) has an hyperlink to the <i>Curriculum page</i>. The <i>third section</i> (<i>ciano background</i>) highlights the <i>Projects</i> done at the moment when I finished this project.<br>
 
-![](https://github.com/stefanogrillo/Personal-Homepage/blob/main/homepage%20index.gif)
+![](https://github.com/stefanogrillo/Personal-Homepage/blob/main/homepage%20index.gif)<br><br>
 
-The Bio section hihlights the basic information about me and my achievements. The images should inspire my cultural background.
 
-![](https://github.com/stefanogrillo/Personal-Homepage/blob/main/Bio.gif)
+The <i>Bio section</i> hihlights basic information about me and my achievements. The images should inspire my cultural background.
 
+![](https://github.com/stefanogrillo/Personal-Homepage/blob/main/Bio.gif)<br><br>
+
+
+The <i>Curriculum section</i> highlights the 
